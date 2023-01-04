@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "[simfphys] Nissan Pack Vol. 1"
+	"author_name" "Author Name"
+	"info" "{"title":"[simfphys] Nissan Pack Vol. 1","type":"vehicle","tags":["fun","roleplay"],"ignore":[]}"
+}
